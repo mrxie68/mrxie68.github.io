@@ -42,25 +42,6 @@
     
     
     <entry>
-      <title>影视推荐 千与千寻-国语</title>
-      <link href="type/qianyu.html"/>
-      <url>type/qianyu.html</url>
-      
-        <content type="html"><![CDATA[<div id="container">   <div id="photo"><img src="https://cdn.jsdelivr.net/gh/mrxie68/cdnimg@master/img/Dz6nwn.68ey7wwt3ng.jpg" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/mrxie68/cdnimg@master/img/Dz6nwn.68ey7wwt3ng.jpg" srcset="data:image/png;base64,666" /></div>   <div id="content">     <div id="news">千与千寻 千と千尋の神隠し (2001)</div>     <div id="text">导演：宫崎骏</div>     <div id="text">编剧：宫崎骏</div>     <div id="text">主演：柊瑠美/入野自由/夏木真理/菅原文太/中村彰男/玉井夕海/神木隆之介/内藤刚志/泽口靖子/我修院达也/大泉洋/小林郁夫/上条恒彦/小野武彦</div>     <div id="text">类型：剧情/奇幻/动画/人性</div>     <div id="text">地区：日本</div>     <div id="text">上映：2001-07-20(日本)</div>     <div id="text">评分：豆瓣 9.4/IMDB 8.6 /时光网 8.9 /烂番茄 97%</div>  <div id="text">电影介绍:</div>  <div id="text">&nbsp;&nbsp;&nbsp;&nbsp;千寻和爸爸妈妈一同驱车前往新家，在郊外的小路上不慎进入了神秘的隧道——他们去到了另外一个诡异世界—一个中世纪的小镇。远处飘来食物的香味，爸爸妈妈大快朵颐，孰料之后变成了猪！这时小镇上渐渐来了许多样子古怪、半透明的人。</div></div><style type="text/css">#news{    font-weight: 900;    font-size: 25px;    color: #777777;}#container {width: 100%;}#photo {float: left; padding: 50px 30px 3px; text-align: justify;width: 290px}#content { width: 100%;color: #777777;    font-size: 16px;    padding: 43px 30px;text-align: justify;font-weight: 600;border-radius: 15px 50px;    border: 2px dashed #f5b414;    }<p></style><br> <head></p><meta charset="utf-8"><head>  <link href="https://cdn.jsdelivr.net/gh/mrxie68/mrxie68.github.io@master/video-js.css" rel="stylesheet" />  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->  <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script></head><body>  <video    id="my-video"    webkit-playsinline="true"    playsinline="true"    class="video-js vjs-fluid vjs-big-play-centered vjs-fluid vjs-default-skin vjs-big-play-centered vjs-playback-rate"    controls    preload="auto"    poster=""    data-setup="{}"  >    <source src="https://onebi.herokuapp.com/%E7%94%B5%E5%BD%B1/%E5%8D%83%E4%B8%8E%E5%8D%83%E5%AF%BB.mp4" type="video/mp4" />    <source src="MY_VIDEO.webm" type="video/webm" />    <p class="vjs-no-js">      <a href="https://videojs.com/html5-video-support/" target="_blank"        ></a      >    </p>  </video>  <script src="https://vjs.zencdn.net/7.10.2/video.js">  </script></body>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 电影 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Mac os 搭建hexo个人博客(一)</title>
       <link href="type/hexo1.html"/>
       <url>type/hexo1.html</url>
@@ -74,6 +55,25 @@
             <tag> 文章 </tag>
             
             <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>影视推荐 千与千寻-国语</title>
+      <link href="type/qianyu.html"/>
+      <url>type/qianyu.html</url>
+      
+        <content type="html"><![CDATA[<div id="container">   <div id="photo"><img src="https://cdn.jsdelivr.net/gh/mrxie68/cdnimg@master/img/Dz6nwn.68ey7wwt3ng.jpg" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/mrxie68/cdnimg@master/img/Dz6nwn.68ey7wwt3ng.jpg" srcset="data:image/png;base64,666" /></div>   <div id="content">     <div id="news">千与千寻 千と千尋の神隠し (2001)</div>     <div id="text">导演：宫崎骏</div>     <div id="text">编剧：宫崎骏</div>     <div id="text">主演：柊瑠美/入野自由/夏木真理/菅原文太/中村彰男/玉井夕海/神木隆之介/内藤刚志/泽口靖子/我修院达也/大泉洋/小林郁夫/上条恒彦/小野武彦</div>     <div id="text">类型：剧情/奇幻/动画/人性</div>     <div id="text">地区：日本</div>     <div id="text">上映：2001-07-20(日本)</div>     <div id="text">评分：豆瓣 9.4/IMDB 8.6 /时光网 8.9 /烂番茄 97%</div>  <div id="text">电影介绍:</div>  <div id="text">&nbsp;&nbsp;&nbsp;&nbsp;千寻和爸爸妈妈一同驱车前往新家，在郊外的小路上不慎进入了神秘的隧道——他们去到了另外一个诡异世界—一个中世纪的小镇。远处飘来食物的香味，爸爸妈妈大快朵颐，孰料之后变成了猪！这时小镇上渐渐来了许多样子古怪、半透明的人。</div></div><style type="text/css">#news{    font-weight: 900;    font-size: 25px;    color: #777777;}#container {width: 100%;}#photo {float: left; padding: 50px 30px 3px; text-align: justify;width: 290px}#content { width: 100%;color: #777777;    font-size: 16px;    padding: 43px 30px;text-align: justify;font-weight: 600;border-radius: 15px 50px;    border: 2px dashed #f5b414;    }<p></style><br> <head></p><meta charset="utf-8"><head>  <link href="https://cdn.jsdelivr.net/gh/mrxie68/mrxie68.github.io@master/video-js.css" rel="stylesheet" />  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->  <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script></head><body>  <video    id="my-video"    webkit-playsinline="true"    playsinline="true"    class="video-js vjs-fluid vjs-big-play-centered vjs-fluid vjs-default-skin vjs-big-play-centered vjs-playback-rate"    controls    preload="auto"    poster=""    data-setup="{}"  >    <source src="https://onebi.herokuapp.com/%E7%94%B5%E5%BD%B1/%E5%8D%83%E4%B8%8E%E5%8D%83%E5%AF%BB.mp4" type="video/mp4" />    <source src="MY_VIDEO.webm" type="video/webm" />    <p class="vjs-no-js">      <a href="https://videojs.com/html5-video-support/" target="_blank"        ></a      >    </p>  </video>  <script src="https://vjs.zencdn.net/7.10.2/video.js">  </script></body>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 电影 </tag>
             
         </tags>
       
