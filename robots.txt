@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /home/
+Allow: /categories/
+Allow: /contributors/
+Disallow: /wangpan/
+Disallow: /js/
+Disallow: /css/
+Sitemap:https://www.mrxie6.cf/sitemap.xml Sitemap:https://www.mrxie6.cf/baidusitemap.xml
