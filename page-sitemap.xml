@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://mrxie98.github.io/</loc>
+        <loc>https://mrxie6.cf/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
@@ -10,7 +10,7 @@
     
     
     <url>
-        <loc>https://mrxie98.github.io/gy/index2.html</loc>
+        <loc>https://mrxie6.cf/gy/index2.html</loc>
         <lastmod>2020-12-08T15:51:55.507Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -19,7 +19,7 @@
     
     
     <url>
-        <loc>https://mrxie98.github.io/tags/</loc>
+        <loc>https://mrxie6.cf/tags/</loc>
         <lastmod>2020-12-07T18:36:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -28,7 +28,7 @@
     
     
     <url>
-        <loc>https://mrxie98.github.io/contributors/</loc>
+        <loc>https://mrxie6.cf/contributors/</loc>
         <lastmod>2020-12-06T10:38:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -37,7 +37,7 @@
     
     
     <url>
-        <loc>https://mrxie98.github.io/ss/</loc>
+        <loc>https://mrxie6.cf/ss/</loc>
         <lastmod>2020-12-06T10:38:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
