@@ -1,6 +1,4 @@
+># allow google
 User-agent: *
-Disallow: 
-Disallow: /css/
-Disallow: /js/
-Disallow: /wangpan
+Allow: /
 Sitemap: https://www.0412.cf/sitemap.xml
