@@ -10708,3 +10708,7 @@ a:hover {
   padding-left: 4px;
   padding-right: 4px;
 }
+.md .link-card p.text {
+  font-weight: bold;
+  color: #252627;
+}
