@@ -1584,7 +1584,7 @@ div.note.blue::before {
 }
 @media screen and (max-width: 500px) {
   .site-card .img {
-    height: 180px;
+    height: 380px;
   }
 }
 .site-card .img img {
