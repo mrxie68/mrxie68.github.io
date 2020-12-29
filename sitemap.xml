@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.0412.cyou/type/sj5.html</loc>
+    
+    <lastmod>2020-12-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.0412.cyou/type/office.html</loc>
     
     <lastmod>2020-12-29</lastmod>
@@ -17,13 +24,6 @@
   
   <url>
     <loc>https://www.0412.cyou/type/sj1.html</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.0412.cyou/type/Ad-bps.html</loc>
     
     <lastmod>2020-12-29</lastmod>
     
@@ -88,13 +88,6 @@
   </url>
   
   <url>
-    <loc>https://www.0412.cyou/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2020-12-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.0412.cyou/tags/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2020-12-29</lastmod>
     <changefreq>daily</changefreq>
@@ -102,7 +95,7 @@
   </url>
   
   <url>
-    <loc>https://www.0412.cyou/tags/Adobe/</loc>
+    <loc>https://www.0412.cyou/tags/%E7%94%B5%E5%BD%B1/</loc>
     <lastmod>2020-12-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
