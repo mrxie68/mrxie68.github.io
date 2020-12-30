@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.0412.cyou/rj/index.html</loc>
+    <loc>https://www.0412.cyou/gy/index.html</loc>
+    
+    <lastmod>2020-12-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.0412.cyou/type/office.html</loc>
+    
+    <lastmod>2020-12-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.0412.cyou/type/sj2.html</loc>
     
     <lastmod>2020-12-30</lastmod>
     
@@ -11,40 +25,26 @@
   <url>
     <loc>https://www.0412.cyou/type/sj5.html</loc>
     
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.0412.cyou/type/office.html</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.0412.cyou/type/sj2.html</loc>
-    
-    <lastmod>2020-12-29</lastmod>
+    <lastmod>2020-12-30</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.0412.cyou/type/sj1.html</loc>
     
-    <lastmod>2020-12-29</lastmod>
+    <lastmod>2020-12-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.0412.cyou/rj/index.html</loc>
+    
+    <lastmod>2020-12-30</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.0412.cyou/tags/index.html</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.0412.cyou/gy/index.html</loc>
     
     <lastmod>2020-12-28</lastmod>
     
@@ -88,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://www.0412.cyou/tags/%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://www.0412.cyou/tags/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -102,7 +102,7 @@
   </url>
   
   <url>
-    <loc>https://www.0412.cyou/tags/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://www.0412.cyou/tags/%E5%8A%9E%E5%85%AC/</loc>
     <lastmod>2020-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
