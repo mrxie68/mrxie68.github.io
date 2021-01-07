@@ -1,4 +1,8 @@
-># allow google
 User-agent: *
-Allow: /
-Sitemap: https://www.0412.cf/sitemap.xml
+Disallow: 
+Disallow: /categories/
+Disallow: /softwa/
+Disallow: /tags/
+Disallow: /Talkabout/
+Disallow: /aboutus/
+Sitemap: https://www.0412.cyou/sitemap.xml
